@@ -5,7 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/@africaswap/sdk/latest.svg)](https://www.npmjs.com/package/@africaswap/sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@africaswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@africaswap/sdk@latest)
 
-In-depth documentation on this SDK is available at [afrucaswap.org](https://africawap.org/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [africaswap.org](https://africaswap.org/docs/v2/SDK/getting-started/).
 
 ## Running tests
 
