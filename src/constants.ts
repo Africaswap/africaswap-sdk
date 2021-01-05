@@ -6,16 +6,6 @@ export type BigintIsh = JSBI | bigint | string
 export enum ChainId {
 	MAINNET = 56,
 	BSCTESTNET = 97
- 
-	/*
-	
-	Change to ETH blockchain
- 
-  MAINNET = 1,
-  ROPSTEN = 3,
-  RINKEBY = 4,
-  GÖRLI = 5,
-  KOVAN = 42 */
 }
 
 export enum TradeType {
