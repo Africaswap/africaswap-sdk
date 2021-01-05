@@ -10,7 +10,7 @@ import { INIT_CODE_HASH } from '../src/constants'
 describe('constants', () => {
   describe('INIT_CODE_HASH', () => {
     it('matches computed bytecode hash', () => {
-      expect(INIT_CODE_HASH).toEqual(0x4101f5607d53242625fa4dd8e6b435b990b434c7511a4a6b808972b114d2c60f)
+      expect(INIT_CODE_HASH).toEqual('0x4101f5607d53242625fa4dd8e6b435b990b434c7511a4a6b808972b114d2c60f')
     })
   })
 })
